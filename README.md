@@ -28,7 +28,7 @@ It fetches the JSON data from APIs and then parses it and displays it to the use
 
 ***
 
-![Home screen of the app](/Readme/1.jpg "Home Screen")
+![Home screen of the app](/Readme/1.jpg "Home Screen" =300x100)
 
 
 

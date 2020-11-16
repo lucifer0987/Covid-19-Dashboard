@@ -2,7 +2,7 @@
 
 ***
 
-## Description
+### Description
 
 ***
 
@@ -28,7 +28,7 @@ It fetches the JSON data from APIs and then parses it and displays it to the use
 
 ***
 
-(/Readme/1.jpg "Home Screen")  (/Readme/2.jpg "Covid Couter")  (/Readme/3.jpg "Days-wise covid data")  (/Readme/4.jpg "Groery stores around me")  (/Readme/5.jpg "Covid News")
+![Home screen of the app](/Readme/1.jpg "Home Screen")
 
 
 

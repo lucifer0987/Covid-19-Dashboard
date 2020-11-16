@@ -23,5 +23,5 @@ It fetches the JSON data from APIs and then parses it and displays it to the use
 <img src="/Readme/1.jpg" width="280" height="550" alt="Home Screen of the app">&nbsp;&nbsp;&nbsp;<img src="/Readme/2.jpg" width="280" height="550" alt="">&nbsp;&nbsp;&nbsp;<img src="/Readme/3.jpg" width="280" height="550" alt=""><img src="/Readme/4.jpg" width="280" height="550" alt="">&nbsp;&nbsp;&nbsp;<img src="/Readme/5.jpg" width="280" height="550" alt="">
 
 
-
+###### Feel free to checkout the project and suggest changes or contribute to it.
  
